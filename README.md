@@ -25,7 +25,7 @@ Androidアプリをはじめとするクライアントサイド、Servletをは
 
 主な自作サービスとして [Hasam](https://www.hasam.jp)があります。  
 また、オープンな活動として、[CodeYourRuby](https://github.com/chooyan-eng/code-your-ruby)リポジトリの運営を行なっています。  
-[Qiita](https://qiita.com/chooyan_eng)や[dev.to](https://dev.to/chooyan)への記事投稿や様々な勉強会でのLT登壇も継続的に行なっています。  
+[Qiita](https://qiita.com/chooyan_eng)や[dev.to](https://dev.to/chooyan)への記事投稿や様々な勉強会でのLT登壇も継続的に行なっています。  
 
 # 職務経歴
 
