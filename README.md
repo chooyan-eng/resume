@@ -48,7 +48,7 @@ ZennやQiitaでFlutterを中心とした技術記事を書いています。
 ファイル管理やアプリインストール、TCPやBluetoothなどを使ったAndroid端末のサーバー化など、一般的なコンシューマー向けのアプリ開発とは違う要件での開発を経験しました。
 
 ### オークメモリーズアプリ開発 (2018.04.01 〜 ) (Kotlin / Swift)
-[オークハウス](https://www.oakhouse.jp)というシェアハウス管理会社が提供する[オークメモリーズ](https://www.oakhouse.jp/oakworker/memories/)のアプリ開発を担当しました。また、同社の2つ目のアプリである[AppBox](https://www.oakhouse.jp/appbox)アプリをFlutterで開発しました。
+[オークハウス](https://www.oakhouse.jp)というシェアハウス管理会社が提供する[オークメモリーズ](https://www.oakhouse.jp/oakworker/memories/)アプリの開発（Kotlin/Swift）と、[AppBox](https://www.oakhouse.jp/appbox)アプリの開発（Flutter）をそれぞれ担当しました。
 
 ### その他
 請負の契約で、複数のtoC向けモバイルアプリをFlutterを利用して受託開発しました。
